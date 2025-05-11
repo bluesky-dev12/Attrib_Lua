@@ -105,6 +105,6 @@ MIT or follow the license of the original `attribulator/Atribulatorator`.
 ---
 
 ## 🙌 Credits
-
-- Based on tools from the `attribulator` family.
-- Maintained by the modding community.
+# RX - Owner of nfsco for original Idea.
+# Leo - for attribulator.
+# Me - Coding and make this possible.
