@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<OutputType>Exe</OutputType>
+		<TargetFramework>net6.0</TargetFramework>
+		<AssemblyName>Attribulatorulator</AssemblyName>
+		<RootNamespace>Attribulatorulator</RootNamespace>
+		<BaseOutputPath>D:\NFSURemake\Project\Tools\Attribulatorator</BaseOutputPath>
+		<PackageOutputPath>D:\NFSURemake\Project\Tools\Attribulatorator\</PackageOutputPath>
+	</PropertyGroup>
+</Project>
