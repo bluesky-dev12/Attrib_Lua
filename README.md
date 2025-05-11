@@ -105,6 +105,6 @@ MIT or follow the license of the original `attribulator/Atribulatorator`.
 ---
 
 ## 🙌 Credits
-# RX - Owner of nfsco for original Idea.
+# RX - Owner of nfsco for original Idea and original progam.
 # Leo - for attribulator.
 # Me - Coding and make this possible.
