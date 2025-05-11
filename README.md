@@ -39,7 +39,7 @@ Choose the correct `.bat` file based on your branch:
 
 **Edit the batch file command:**
 ```bash
-Attribulatorulator.exe -DecompileTestBranch Game
+Attribulatorulator.exe -CompileBranchType Game
 ```
 
 Run the `.bat` file. Decompiled content will appear in:
@@ -67,7 +67,7 @@ After editing, compile the content back using:
 
 **Example command inside the `.bat`:**
 ```bash
-Attribulatorulator.exe -CompileTestBranch Game
+Attribulatorulator.exe -CompileBranchType Game
 ```
 
 ---
