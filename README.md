@@ -1,6 +1,6 @@
-# 🛠️ Atribulatorulator - Lua & Shader Automation Tool
+# 🛠️ Attrib_Lua - Lua & Shader Automation Tool
 
-**Atribulatorulator** is an extension of the `attribulator/Atribulatorator` project. This tool automates the workflow of **decompiling**, **editing**, and **compiling** Lua scripts, Vault files, and Shaders for game development or modding.
+**Attrib_Lua** is an extension of the `attribulator/Atribulatorator` project. This tool automates the workflow of **decompiling**, **editing**, and **compiling** Lua scripts, Vault files, and Shaders for game development or modding.
 
 ---
 
